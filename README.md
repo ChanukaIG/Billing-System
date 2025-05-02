@@ -6,7 +6,7 @@ A simple billing system built using C++. This console application helps you plac
  - Predefined Menu: A menu with items, each with a unique item number and price.
  - Order Management: Allows users to place up to 15 items in an order.
  - Bill Calculation: The system calculates the total amount, adds a 5% tax, and displays the final bill.
- - Transaction Record: Bills are saved to a file (.txt), keeping a record of all transactions.
+ - Transaction Record: Bills are saved to a file (`.txt`), keeping a record of all transactions.
  - User-Friendly Interface: A simple menu system for interacting with the application.
 
 ### Technologies Used
